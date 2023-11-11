@@ -4,6 +4,7 @@
 <p align="center"> 
   <img src="https://github-hit-counter.onrender.com/count.svg?t=random123" alt="Visitor Count">
 </p>
+![Visitor Count](https://github-hit-counter.onrender.com/count.svg?t=1636700000)
 
 ## About me
 
