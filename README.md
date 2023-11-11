@@ -2,7 +2,7 @@
 
 
 <p align="center"> 
-  <image src="https://github-hit-counter.onrender.com/count.svg?t=1636700000" >
+  <image src="https://github-hit-counter.onrender.com/count.svg?t=163670000e0" >
 </p>
 
 ## About me
