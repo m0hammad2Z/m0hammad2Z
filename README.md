@@ -8,7 +8,7 @@
 
 ## About me
 
-Greetings, I’m Mohammad Al-Zaro, a full stack web developer trainee at [Orange], a prominent telecommunications company in Jordan 🕸️. I’m also a game developer who creates immersive and engaging experiences 🎮. In my spare time, I produce videos for my YouTube channel, where I share my insights and tips on various games 📹. I invite you to explore my work and connect with me.
+Greetings, I’m Mohammad Al-Zaro, a full stack web developer trainee at [Orange], a prominent telecommunications company in Jordan 🕸️. I’m also a game developer who creates immersive and engaging experiences 🎮. In my spare time, I produce videos for my YouTube channel.
 
 
 ## Things I am passionate about
