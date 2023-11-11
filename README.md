@@ -2,7 +2,7 @@
 
 
 <p align="center"> 
-  <image src="https://github-hit-counter.onrender.com/count.svg" https://github-hit-counter.onrender.com/count.svg/>
+  <image src="![Visitor Count](https://github-hit-counter.onrender.com/count.svg?t=random123)" >
 </p>
 
 ## About me
