@@ -3,7 +3,6 @@
 
 <p align="center"> 
   <img src="https://github-hit-counter.onrender.com/count.svg?t=TIMESTAMP_OR_RANDOM" alt="Visitor Count">
-
 </p>
 
 ## About me
