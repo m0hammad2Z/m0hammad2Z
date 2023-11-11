@@ -3,7 +3,6 @@
 
 <p align="center"> 
   <image src="https://github-hit-counter.onrender.com/count.svg" />
- 
 </p>
 
 ## About me
