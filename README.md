@@ -2,7 +2,7 @@
 
 
 <p align="center"> 
-  <img src="https://github-hit-counter.onrender.com/count.svg?t=TIMESTAMP_OR_RANDOM" alt="Visitor Count">
+  [![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
 </p>
 
 ## About me
