@@ -4,7 +4,7 @@
 <p align="center"> 
   Visitor count<br>
   <br>
-  <img src="[https://github-hit-counter.onrender.com](https://github-hit-counter.onrender.com/)"/>
+  <img src="https://github-hit-counter.onrender.com/"/>
 </p>
 
 ## About me
