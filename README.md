@@ -3,7 +3,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://github-hit-counter.onrender.com/" alt="image">
+ 
 </p>
 
 ## About me
