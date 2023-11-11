@@ -2,7 +2,8 @@
 
 
 <p align="center"> 
-  [![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
+  ![Visitor Count](https://profile-counter.glitch.me/m0hammad2Z/count.svg)
+
 </p>
 
 ## About me
