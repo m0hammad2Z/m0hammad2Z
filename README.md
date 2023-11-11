@@ -1,10 +1,10 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://github.com/m0hammad2Z/m0hammad2Z/blob/main/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
-  <
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
 ## About me
@@ -15,10 +15,10 @@ I sometimes make videos 📹 on my YouTube channel about games.
 
 ## Things I am passionate about
 
-- Android :robot:
+- Video Games 🎮:
 - Open source :octocat:
 
-## Get in touch :coffee:
+## Get in touch ☕:
 
 - Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
 - Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
