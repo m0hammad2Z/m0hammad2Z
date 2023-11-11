@@ -8,8 +8,7 @@
 
 ## About me
 
-I'm Mohammad Al-Zaro. A Game Developer 🎮. An Full Stack Developer Trainne at [Orange](https://www.orange.jo/) 🕸️ .
-I sometimes make videos 📹 on my YouTube channel about games.
+Greetings, I’m Mohammad Al-Zaro, a full stack web developer trainee at [Orange], a prominent telecommunications company in Jordan 🕸️. I’m also a game developer who creates immersive and engaging experiences 🎮. In my spare time, I produce videos for my YouTube channel, where I share my insights and tips on various games 📹. I invite you to explore my work and connect with me.
 
 
 ## Things I am passionate about
@@ -18,10 +17,7 @@ I sometimes make videos 📹 on my YouTube channel about games.
 - Open source :octocat:
 
 ## Get in touch ☕:
-
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/mohammad-alzaro/)
 - And of course GitHub you're already on (Recursion).
 
 
