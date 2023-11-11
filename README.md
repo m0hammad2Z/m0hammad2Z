@@ -2,7 +2,7 @@
 
 
 <p align="center"> 
-  ![Visitor Count](https://profile-counter.glitch.me/m0hammad2Z/count.svg)
+  <img scr= "![Visitor Count](https://profile-counter.glitch.me/m0hammad2Z/count.svg)" >
 
 </p>
 
