@@ -9,9 +9,8 @@
 
 ## About me
 
-I'm Mohammad Al-Zaro. A Game Developer 🎮. An Full Stack Developer Trainne at [Orange](https://www.orange.jo/) . Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
-
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
+I'm Mohammad Al-Zaro. A Game Developer 🎮. An Full Stack Developer Trainne at [Orange](https://www.orange.jo/) 🕸️ .
+I sometimes make videos 📹 on my YouTube channel about games.
 
 
 ## Things I am passionate about
