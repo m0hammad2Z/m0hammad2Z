@@ -3,7 +3,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://github-hit-counter.vercel.app/)" />
+  <img src="https://github-hit-counter.vercel.app" />
 </p>
 
 ## About me
