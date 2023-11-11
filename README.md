@@ -6,7 +6,7 @@
   <br>
   <br>
   <img src="https://profile-counter.glitch.me/m0hammad2Z/count.svg" >
-  <img src="https://github-hit-counter.onrender.com/count.svg" >
+  <img src="https://github-hit-counter.onrender.com/co.svg" >
 </p>
 
 ## About me
