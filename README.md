@@ -2,7 +2,8 @@
 
 
 <p align="center"> 
-  <p> Visitors</p><br>
+  Visitors
+  <br>
   <img src="https://profile-counter.glitch.me/m0hammad2Z/count.svg" >
 </p>
 
