@@ -3,9 +3,6 @@
 
 
 <p align="center"> 
-  Visitors
-  <br>
-  <br>
   <img src="https://github-hit-counter.onrender.com/co.svg" >
 </p>
 
