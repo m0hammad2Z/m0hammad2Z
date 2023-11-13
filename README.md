@@ -1,7 +1,30 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">A passionate full stack developer from Jordan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m0hammad2z&label=Profile%20views&color=0e75b6&style=flat" alt="m0hammad2z" /> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Hey there :wave:
+
+
+<p align="center"> 
+  Visitors
+  <br>
+  <br>
+  <img src="https://github-hit-counter.onrender.com/co.svg" >
+</p>
 
 
 
