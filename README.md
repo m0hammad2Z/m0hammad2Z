@@ -5,29 +5,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Hey there :wave:
-
-
-<p align="center"> 
-  Visitors
-  <br>
-  <br>
-  <img src="https://github-hit-counter.onrender.com/co.svg" >
-</p>
-
 ## About me
 
 Greetings, I’m Mohammad Al-Zaro, a full stack web developer trainee at [Orange], a prominent telecommunications company in Jordan 🕸️. I’m also a game developer who creates immersive and engaging experiences 🎮. In my spare time, I produce videos for my YouTube channel.
