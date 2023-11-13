@@ -2,23 +2,6 @@
 <h3 align="center">A passionate full stack developer from Jordan</h3>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Hey there :wave:
-
-
 <p align="center"> 
   Visitors
   <br>
