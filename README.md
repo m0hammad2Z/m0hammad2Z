@@ -1,16 +1,12 @@
-<h1 align="center">Hi, I'm Mohammad</h1>
-<h3 align="center">Software Engineer | Backend-Focused Developer</h3>
-
----
+<h1 align="center">Mohammad</h1>
+<h3 align="center">Software Engineer (Backend / Full Stack)</h3>
 
 ### About Me
-I'm a software engineer specializing in backend development with **Java, Spring Boot, and PostgreSQL**.  
-I focus on building clean, scalable systems, and enjoy **game development** as a hobby.
+Software engineer with a strong focus on backend development using **Java, Spring Boot, and PostgreSQL**.  
+I build clean, scalable systems and enjoy learning new technologies. Game development is a personal hobby.
 
-### Technologies
-**Backend:** Java · Spring Boot · PostgreSQL  
-**Frontend:** Angular · JavaScript  
-**Tools:** Docker · Git  
-**Other:** Python · Unity
-
----
+### Skills
+**Backend:** Java, Spring Boot, Hibernate, PostgreSQL  
+**Frontend:** Angular, JavaScript  
+**Tools:** Docker, Git, Postman  
+**Other:** Python, Unity
