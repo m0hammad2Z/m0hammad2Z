@@ -7,6 +7,6 @@ I build clean, scalable systems and enjoy learning new technologies. Game develo
 
 ### Skills
 **Backend:** Java, Spring Boot, Hibernate, PostgreSQL  
-**Frontend:** Angular, JavaScript  
+**Frontend:** Angular, React  
 **Tools:** Docker, Git, Postman  
-**Other:** Python, Unity
+**Other:** Unity, C#
